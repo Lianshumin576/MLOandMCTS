@@ -14,7 +14,6 @@ else
 end
 % delete(poolobj)
 %==================simulation parameters==========================
-%初始化
 num_band = 3;
 num_ap = 3;
 num_sta = 2*[1,1,1]; 

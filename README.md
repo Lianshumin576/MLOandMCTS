@@ -36,7 +36,7 @@ If you find the repository is helpful to your project, please cite as follows:
 @article{lian2025intelligent,
   title={Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM},
   author={Lian, shumin and Tong, Jingwen and Zhang, Jun and Fu, Liqun},
-  journal={JSAC},
+  journal={arXiv preprint arXiv:2506.04594},
   year={2025}
 }
 ```
